@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+.title{
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-shadow: 0 0 17px;
+    color: rgb(20, 41, 34);
+}
+li{
+    color: rgb(20, 41, 34);
+    font-size: x-large;
+    font-family: sans-serif;
+    text-shadow: 0 0 17px;  
+    margin-left: 20px;
+}
+.li{
+    color: rgb(20, 41, 34);
+    font-size: x-large;
+    font-family: sans-serif;
+    text-shadow: 0 0 17px;  
+    margin-top: 50px;
+}
+a{
+    color: rgb(20, 41, 34);
+    text-align: center;
+    margin-top: 40px;
+}

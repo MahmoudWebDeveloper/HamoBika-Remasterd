@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(51, 11, 11);
+}
+.title{
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-shadow: 0 0 17px;
+    color: wheat;
+
+}
+li{
+    margin-left: 20px;
+    color: rgb(202, 165, 97);
+    font-size: xx-large;
+    text-shadow: 0 0 17px;
+}
+.li{
+    margin-top: 70px;
+}
+a{
+    color: beige;
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: 0 0 17px;
+}
+hr{
+    width: 500px;
+}
